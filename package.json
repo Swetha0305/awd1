@@ -1,0 +1,16 @@
+{
+"author": "swetha",
+"name": "ceprotxt",
+"version": "0.1.1",
+"description": "Censors words out of text",
+"main": "protxt",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/Swetha0305/awd"
+    },
+    
+"dependencies": {},
+"engines": {
+"node": "*"
+}
+}
